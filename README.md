@@ -1,6 +1,6 @@
-# vue-movies
+# vue-CRUD-login
 
-> my movies collection
+> Simple vuejs CRUD app with firebase login
 
 ## Build Setup
 
